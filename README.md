@@ -1,3 +1,1 @@
-# marvel-react
-
-Marvel api using react
+# Marvel api using react
